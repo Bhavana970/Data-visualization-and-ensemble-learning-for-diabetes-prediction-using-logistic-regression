@@ -1,0 +1,2 @@
+# Data-visualization-and-ensemble-learning-for-diabetes-prediction-using-logistic-regression
+This project focuses on predicting diabetes using the Pima Indians dataset through data visualization and statistical modeling. Exploratory data analysis (EDA) is performed to understand key risk factors. Logistic regression and ensemble approaches are applied, and model performance is evaluated using accuracy and classification metrics.
